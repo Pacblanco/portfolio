@@ -14,7 +14,7 @@ Ce que ça donne côté data : l'habitude des environnements où une erreur se v
 
 | Projet | Ce qu'il fait | Stack | Code | Démo |
 |---|---|---|---|---|
-| **Pipeline de détection d'intrusions réseau** | Projet d'équipe. Responsable de la couche d'ingestion : contrôles qualité à l'ingestion (schéma, doublons, valeurs manquantes), journalisation, travail par branches et pull requests relues. | Python, pandas, Git | _à publier_ | — |
+| **Cyber Sentinel — pipeline de détection d'intrusions réseau** | Projet d'équipe à quatre. J'ai pris en charge la couche d'ingestion : contrôles bloquants de schéma, journalisation, alertes sur doublons et colonnes constantes, règle de traitement des valeurs manquantes, typage des colonnes catégorielles. Travail par branches, intégré au projet par deux pull requests relues. | Python, pandas, Git | [dépôt d'équipe](https://github.com/SebV-code/DAFS-Cyber_Sentinel) · [mes commits](https://github.com/SebV-code/DAFS-Cyber_Sentinel/commits?author=Pacblanco) · [copie](https://github.com/Pacblanco/DAFS-Cyber_Sentinel) | — |
 | **API d'exploration de données RH** | API REST qui interroge un jeu de données RH : endpoints d'aperçu et d'exploration des valeurs, validation des paramètres d'entrée, image Docker construite pour exploiter le cache de dépendances. | Python, FastAPI, Docker | _à publier_ | _à venir_ |
 | _troisième projet à venir_ | | | | |
 
