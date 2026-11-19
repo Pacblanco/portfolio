@@ -16,7 +16,6 @@ Ce que ça donne côté data : l'habitude des environnements où une erreur se v
 |---|---|---|---|---|
 | **Cyber Sentinel — pipeline de détection d'intrusions réseau** | Projet d'équipe à quatre. J'ai pris en charge la couche d'ingestion : contrôles bloquants de schéma, journalisation, alertes sur doublons et colonnes constantes, règle de traitement des valeurs manquantes, typage des colonnes catégorielles. Travail par branches, intégré au projet par deux pull requests relues. | Python, pandas, Git | [dépôt d'équipe](https://github.com/SebV-code/DAFS-Cyber_Sentinel) · [mes commits](https://github.com/SebV-code/DAFS-Cyber_Sentinel/commits?author=Pacblanco) · [copie](https://github.com/Pacblanco/DAFS-Cyber_Sentinel) | — |
 | **API d'exploration de données RH** | API REST qui interroge un jeu de données RH : endpoints d'aperçu et d'exploration des valeurs, validation des paramètres d'entrée, image Docker construite pour exploiter le cache de dépendances. | Python, FastAPI, Docker | _à publier_ | _à venir_ |
-| _troisième projet à venir_ | | | | |
 
 > Chaque projet suit la même structure : le problème, la mise en œuvre, le résultat.
 
@@ -24,14 +23,12 @@ Ce que ça donne côté data : l'habitude des environnements où une erreur se v
 
 ## Compétences
 
-| Domaine | Outils et méthodes |
-|---|---|
-| **Requêtage et bases de données** | SQL (BigQuery, PostgreSQL), CTE et requêtes paramétrées, modélisation relationnelle OLTP / OLAP, MongoDB |
-| **Python** | pandas, NumPy, analyse exploratoire, automatisation de traitements |
-| **Visualisation et restitution** | Power BI, Plotly, Excel et Google Sheets |
-| **Qualité des données** | contrôles de schéma, détection de doublons et de valeurs manquantes, journalisation |
-| **Développement et outillage** | Git et GitHub (branches, pull requests), Docker, FastAPI, Linux (WSL) |
-| **Cloud** | Google Cloud et BigQuery, notions Azure |
+- **Requêtage et bases de données** — SQL (BigQuery, PostgreSQL), CTE et requêtes paramétrées, modélisation relationnelle OLTP / OLAP, MongoDB
+- **Python** — pandas, NumPy, analyse exploratoire, automatisation de traitements
+- **Visualisation et restitution** — Power BI, Plotly, Excel et Google Sheets
+- **Qualité des données** — contrôles de schéma, détection de doublons et de valeurs manquantes, journalisation
+- **Développement et outillage** — Git et GitHub (branches, pull requests), Docker, FastAPI, Linux (WSL)
+- **Cloud** — Google Cloud et BigQuery, notions Azure
 
 **Certification** — Microsoft Power BI Data Analyst (PL-300), examen prévu en décembre 2026.
 
