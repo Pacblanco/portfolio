@@ -1,6 +1,6 @@
 # Pacôme Blanco — Data Analyst
 
-Analyste de données en reconversion, basé à Genève. Formation **Data Analyst Fullstack** chez Jedha (août – décembre 2026), après plusieurs années dans la sécurité puis à la tête de ma propre société de transport.
+Analyste de données en reconversion, basé à Genève. Formation **Data Analyst Fullstack** chez Jedha (août – décembre 2026), après un parcours dans l'armée et la sécurité, puis à la tête de ma propre société de transport.
 
 Ce que j'apporte en plus d'un profil junior classique : l'habitude de gérer une activité de bout en bout — clients, facturation, décisions chiffrées — et le réflexe de regarder ce que les données changent pour le métier, pas seulement ce qu'elles disent.
 
@@ -39,8 +39,8 @@ Microsoft PL-300 — Power BI Data Analyst _(examen prévu en décembre 2026)_
 ## Parcours
 
 - **2026** — Formation Data Analyst Fullstack, Jedha Bootcamp (bloc RNCP niveau 7 « Concevoir et mettre en œuvre des pipelines de données pour l'IA »)
-- **Depuis 2023** — Fondateur et gérant d'une société de transport de personnes : gestion opérationnelle, relation client, facturation, suivi d'activité
-- **Avant** — Militaire, puis agent de sécurité
+- **_dates à compléter_** — Gérant de ma société de transport de personnes, seul aux commandes : exploitation, relation client, facturation, suivi d'activité
+- **_dates à compléter_** — Militaire, puis agent de sécurité
 
 ---
 
