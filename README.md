@@ -1,10 +1,8 @@
 # Pacôme Blanco — Data Analyst
 
-En reconversion vers l'analyse de données, en formation intensive **Data Fullstack chez Jedha** jusqu'en décembre 2026 : SQL, Python, Power BI, et la mise en production qui va avec.
+Data analyst full stack à Genève — SQL, Python et Power BI, avec des appétences analytics engineer et data engineer.
 
-Avant cela, quinze ans d'expérience opérationnelle à Genève — transport de valeurs et de documents confidentiels en sécurité privée, puis conduite de dirigeants, de ministres et de délégations officielles. Je dirige aujourd'hui ma propre société de transport, dont j'assure seul le suivi d'activité, la facturation et la relation client.
-
-Ce que ça donne côté data : l'habitude des environnements où une erreur se voit, et le réflexe de regarder ce qu'un chiffre change pour celui qui doit décider.
+Je termine en décembre 2026 la formation intensive Data Fullstack de Jedha : SQL et modélisation de données, Python et pandas, analyse exploratoire et statistiques, Power BI, et la mise en production qui va avec — Git, Docker, FastAPI, pipelines ETL sur Google Cloud. Je passe en décembre la certification Microsoft Power BI Data Analyst (PL-300).
 
 **Disponible à partir du 14 décembre 2026** — Genève, Vaud, Valais, Neuchâtel, Fribourg, ou full remote en Suisse.
 
@@ -30,20 +28,9 @@ Ce que ça donne côté data : l'habitude des environnements où une erreur se v
 - **Développement et outillage** — Git et GitHub (branches, pull requests), Docker, FastAPI, Linux (WSL)
 - **Cloud** — Google Cloud et BigQuery, notions Azure
 
+**Formation** — Data Fullstack, Jedha Bootcamp (août – décembre 2026). Bloc de compétences « Concevoir et mettre en œuvre des pipelines de données pour l'IA », titre RNCP niveau 7.
+
 **Certification** — Microsoft Power BI Data Analyst (PL-300), examen prévu en décembre 2026.
-
----
-
-## Parcours
-
-- **août – décembre 2026** — Data Fullstack, Jedha Bootcamp. Bloc de compétences « Concevoir et mettre en œuvre des pipelines de données pour l'IA », titre RNCP niveau 7 « Architecte en intelligence artificielle »
-- **depuis septembre 2025** — Gérant, OPAL Limousine Sàrl, Genève : création et gestion d'une société de transport de personnes en autonomie complète
-- **octobre 2022 – septembre 2025** — Chauffeur de direction, Elite Rent A Car / Chabé Prestige, Genève
-- **août 2021 – octobre 2022** — Chauffeur, Swissline Limousine, Genève
-- **2015 – 2021** — Sécurité privée et transports sécurisés, Genève (Securitas, GPA Guardian Protection, Prime Protection)
-- **2008 – 2013** — Missions de sécurité en France et en Suisse, après un service au 35e régiment d'infanterie
-
-Langues : français (langue maternelle), anglais (niveau professionnel), espagnol (notions).
 
 ---
 
