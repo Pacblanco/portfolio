@@ -61,8 +61,14 @@
 
 						<article class="work-item">
 							<h3>API d'exploration de données RH</h3>
-							<p>API REST qui interroge un jeu de données RH : endpoints d'aperçu et d'exploration des valeurs, validation des paramètres d'entrée, conversion des résultats pandas en types natifs. Image Docker construite pour exploiter le cache de dépendances.</p>
-							<p><em>Python, FastAPI, Docker — code en cours de publication</em></p>
+							<p>API REST sur un jeu de données RH de 1 470 employés, en six endpoints : aperçu du jeu, valeurs distinctes d'une colonne, filtrage par quantile avec validation des bornes et tri, regroupement et agrégation paramétrés, filtrage multi-catégories, et prédiction de la probabilité de départ d'un employé.</p>
+							<p>Entrées validées par Pydantic, erreurs renvoyées en 400 avec un message explicite, journalisation des appels, documentation OpenAPI organisée en quatre sections. Le modèle, un pipeline scikit-learn, est chargé une seule fois au démarrage. Image Docker avec cache des dépendances.</p>
+							<p><em>Python, FastAPI, pandas, scikit-learn, Docker</em></p>
+							<ul class="actions">
+								<li><a href="https://github.com/Pacblanco/hr-data-api" class="button">Code</a></li>
+								<li><a href="https://hr-data-api-j9yt.onrender.com/docs" class="button">Démonstration</a></li>
+							</ul>
+							<p><em>La démonstration tourne sur une instance gratuite : le premier appel peut demander 30 à 50 secondes, le temps du réveil.</em></p>
 						</article>
 
 					</section>
